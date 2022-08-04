@@ -1,0 +1,63 @@
+#error_message {
+    background-color: rgb(224, 196, 196);
+    color: red;
+    padding: 10px;
+    margin: 10px;
+    display: none;
+    position: absolute;
+    right: 15px;
+    top: 15px;
+
+}
+
+#success_message {
+    background-color: rgb(157, 241, 161);
+    color: green;
+    padding: 10px;
+    margin: 10px;
+    display: none;
+    position: absolute;
+    right: 15px;
+    top: 15px;
+
+}
+
+.offcanvas li {
+    margin-left: 10px;
+}
+
+.offcanvas li:hover {
+    background-color: darkgrey;
+    border-radius: 5px;
+}
+
+.offcanvas-header {
+    background-color: black;
+    color: aliceblue;
+}
+
+.offcanvas-header button {
+    background-color: white;
+}
+
+section {
+    width: 100%;
+}
+
+#cardadmin {
+    margin-left: 200px;
+}
+
+#searchbar {
+    margin-top: 25px;
+    margin-left: 220px;
+    border-radius: 5px;
+}
+
+.close {
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: black;
+    color: white;
+}
